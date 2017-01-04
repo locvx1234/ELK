@@ -7,29 +7,29 @@
 
 ## Mục lục
 
-1. Giới thiệu (#gioithieu)
+[1. Giới thiệu](#gioithieu)
 
-2. Mục tiêu (#muctieu)
+[2. Mục tiêu ](#muctieu)
 
-3. Chuẩn bị (#chuanbi)
+[3. Chuẩn bị ](#chuanbi)
 
-4. Install Java 8 (#java8)
+[4. Install Java 8 ](#java8)
 
-5. Install Elasticsearch (#Elasticsearch)
+[5. Install Elasticsearch ](#Elasticsearch)
 
-6. Install Kibana (#Kibana)
+[6. Install Kibana ](#Kibana)
 
-7. Install Nginx (#Nginx)
+[7. Install Nginx ](#Nginx)
 
-8. Cấu hình server tập trung nhận dữ liệu (#ReceiveData)
+[8. Cấu hình server tập trung nhận dữ liệu ](#ReceiveData)
 
-9. Cấu hình rsyslog để gửi dữ liệu từ xa (#rsyslogSendData)
+[9. Cấu hình rsyslog để gửi dữ liệu từ xa ](#rsyslogSendData)
 
-10. Định dạng JSON cho Log Data (#JSON)
+[10. Định dạng JSON cho Log Data ](#JSON)
 
-11. Cấu hình server tập trung để gửi tới Logstash (#sendToLogstash)
+[11. Cấu hình server tập trung để gửi tới Logstash ](#sendToLogstash)
 
-12. Install Logstash
+[12. Install Logstash ](#Logstash)
 
 <a name="gioithieu"></a>
 ## 1. Giới thiệu 
