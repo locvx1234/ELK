@@ -92,9 +92,17 @@ Sửa file cấu hình
 	
 Bạn sẽ muốn hạn chế truy cập từ ngoài vào Elasticsearch của bạn, để người khác không thể đọc dữ liệu hoặc tắt Elasticsearch
 
-Tìm dòng xác định `network.host` và bỏ comment đi và thay giá trị là ip Elasticsearch server
+Tìm dòng xác định `network.host` , `cluster.name`, `node.name`, `http.port`  và bỏ comment đi và thay giá trị là ip Elasticsearch server
 
+	...
 	network.host: ip_elasticsearch_server
+	...
+	cluster.name: my-application
+	...
+	node.name: node-1
+	...
+	http.port: 9200
+	...
 	
 Lưu và thoát sau đó khởi động Elasticsearch:
 
