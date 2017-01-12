@@ -70,6 +70,7 @@ Bạn tạo một custom patterns file:
 - Tạo một thư mục `patterns` với file `postfix` bên trong nó (tên file không phải là vấn đề)
 - Trong file đó, viết pattern mà bạn cần, như là tên pattern, khoảng trắng, regex pattern.
 
+
 	# contents of ./patterns/postfix:
 	POSTFIX_QUEUEID [0-9A-F]{10,11}
 	
@@ -108,7 +109,7 @@ Cấu trúc chính của grok
 	
 Các option 
 
-|-------|----------|--------|-------------|
+
 |Setting|Input type|Required|Default value|
 |-------|----------|--------|-------------|
 |add_field|hash|No|{}|
