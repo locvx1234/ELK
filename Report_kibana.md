@@ -64,16 +64,16 @@ Save and quit
 	docker build -t parvez/snapshot .
 	docker run -p 49160:8080 -d parvez/snapshot
 	
-### Access with username and password in config 
+### Access with username and password in config file
 
-<img src="">
+<img src="https://raw.githubusercontent.com/locvx1234/ELK/master/images/Snapshot_login.png">
 
 
 ### New snapshot 
 
-<img src="">
+<img src="https://raw.githubusercontent.com/locvx1234/ELK/master/images/Snapshot_new.png">
 
 ### Result
 
-<img src="">
+<img src="https://raw.githubusercontent.com/locvx1234/ELK/master/images/Snapshot_result.png">
  
