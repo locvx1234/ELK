@@ -78,3 +78,8 @@ Save and quit
 
 <img src="https://raw.githubusercontent.com/locvx1234/ELK/master/images/Snapshot_result.png">
  
+### Script sample send to mail 
+
+https://github.com/locvx1234/ELK/blob/master/send_report.sh
+
+Then using Crontab to schedule
