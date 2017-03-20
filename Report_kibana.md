@@ -37,6 +37,7 @@ Config :
 - basic_auth_users - Basic authentication list of users
 
 Examplpe : 
+
 	{
 	  "app_port": 8080,
 	  "app_dir": "/deploy",
